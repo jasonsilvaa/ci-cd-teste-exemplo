@@ -7,7 +7,7 @@ permissions:
 on:
   push:
     branches: [ "main" ]
-    
+  workflow_dispatch: 
 jobs:
   build:
 
@@ -32,4 +32,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
        github_token: ${{ secrets.GITHUB_TOKEN }}
-       publish_dir: ./public
+       publish_dir: ./allure-report
