@@ -25,9 +25,9 @@ jobs:
       run: npm install
     - name: Run tests
       run: npm run test
-    - name: Generate report
+    - name: Generate report Allure
       run: npm run report:generate
-    - name: Deploy
+    - name: Publicar relátório no github pages
       if: success()
       uses: peaceiris/actions-gh-pages@v4
       with:
