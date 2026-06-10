@@ -1,1 +1,1 @@
-{"id":"0183c15f488a9440a830bda7fb201540","fullName":"ci-cd-teste-exemplo:cypress/e2e/1-getting-started/todo.cy.js#example to-do app can add new todo items","name":"can add new todo items","status":"passed","testResultsByEnv":{"default":"4a36bf6deedf69438153e07b94a460cc"}}
+{"id":"0183c15f488a9440a830bda7fb201540","fullName":"ci-cd-teste-exemplo:cypress/e2e/1-getting-started/todo.cy.js#example to-do app can add new todo items","name":"can add new todo items","status":"passed","testResultsByEnv":{"default":"ca0f37880288e459109bdf98a39b9851"}}
