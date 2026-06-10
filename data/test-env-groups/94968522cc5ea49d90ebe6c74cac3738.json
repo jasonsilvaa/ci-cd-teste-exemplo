@@ -1,1 +1,1 @@
-{"id":"94968522cc5ea49d90ebe6c74cac3738","fullName":"ci-cd-teste-exemplo:cypress/e2e/2-advanced-examples/location.cy.js#Location cy.url() - get the current URL","name":"cy.url() - get the current URL","status":"passed","testResultsByEnv":{"default":"55fe302fc4d447d942d9871579a9eb83"}}
+{"id":"94968522cc5ea49d90ebe6c74cac3738","fullName":"ci-cd-teste-exemplo:cypress/e2e/2-advanced-examples/location.cy.js#Location cy.url() - get the current URL","name":"cy.url() - get the current URL","status":"passed","testResultsByEnv":{"default":"e10c4557bbdafec16199f977be3b149e"}}

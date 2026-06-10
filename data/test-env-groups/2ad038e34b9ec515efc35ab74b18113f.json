@@ -1,1 +1,1 @@
-{"id":"2ad038e34b9ec515efc35ab74b18113f","fullName":"ci-cd-teste-exemplo:cypress/e2e/2-advanced-examples/files.cy.js#Files cy.readFile() - read file contents","name":"cy.readFile() - read file contents","status":"passed","testResultsByEnv":{"default":"59dc263c93b662d4c5fcc23d33b3cd97"}}
+{"id":"2ad038e34b9ec515efc35ab74b18113f","fullName":"ci-cd-teste-exemplo:cypress/e2e/2-advanced-examples/files.cy.js#Files cy.readFile() - read file contents","name":"cy.readFile() - read file contents","status":"passed","testResultsByEnv":{"default":"c754d02ba5c4190976e003837d7093c6"}}
