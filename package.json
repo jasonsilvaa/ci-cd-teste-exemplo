@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run --browser chrome",
+    "docker:build": "docker build -t ci-cd-teste-exemplo .",
+    "docker:run": "docker run --rm ci-cd-teste-exemplo",
+    "docker:test": "npm run docker:build && npm run docker:run",
     "report":"npx allure serve --clean allure-results",
     "report:generate":"npx allure generate allure-results -o allure-report"
   },
